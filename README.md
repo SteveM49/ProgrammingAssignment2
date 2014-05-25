@@ -1,3 +1,8 @@
+## Description of program
+This program is a submission for the Programming Assignment #2 of the Coursera class on Data Analysis class on R-programming.
+It is an attempt to use cacheing to save the result of solving (inverting) a matrix.
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
